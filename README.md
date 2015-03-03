@@ -1,4 +1,4 @@
-# fit-twitter-button
+# fit-twitter-button [WIP]
 
 ## MEMO
 
@@ -7,3 +7,4 @@
 * 言語によって幅が違う
 * ボタンの大きさによって幅が違う
 * カウント数では変わらないぽい
+* iframe化する前のaタグとiframe化した後のふたつのタイミングで処理が必要
